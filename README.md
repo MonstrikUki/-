@@ -1,4 +1,4 @@
-# Привет, мы команда **[НАЗВАНИЕ КОМАНДЫ]**!
+# Привет, мы команда **[Феникс]**!
 
 <p align="center">
   <img src="https://github.com/[USERNAME]/[IMAGE].png" width="300" />
