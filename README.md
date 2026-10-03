@@ -30,9 +30,7 @@
 
 | Имя | Роль | Профиль GitHub |
 | --- | --- | --- |
-| [Имя] | Team Lead / Architect | [@username](https://github.com/username) |
-| [Имя] | Senior Developer | [@username](https://github.com/username) |
-| [Имя] | Junior Developer | [@username](https://github.com/username) |
+| [Алиса] | Team Lead / Architect / Junior Developer | [@MonstrikUki](https://github.com/MonstrikUki) |
 
 ## Пользовательские истории
 
